@@ -1,3 +1,3 @@
-- 👋 Hola, soy Agustin Fernandez, tengo 22 años y actualmente estoy estudiando la Tecnicatura en Programacion en UTN
-- 🌱 Actualmente me encuentro aprendiendo C# con .Net Framework en la facultad y por mi cuenta Python
+- 👋 Hola, soy Agustin Fernandez, tengo 23 años y actualmente me encuntro trabajando con .NET + Angular + SQL Server
+- 🌱 Actualmente me encuentro aprendiendo React y profundizando conocimientos de C#.
 - 📫 Pueden contactar conmigo en mi mail: agusfernandez2512@gmail.com
